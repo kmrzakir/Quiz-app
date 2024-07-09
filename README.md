@@ -1,0 +1,1 @@
+This is a simple quiz app where I used Retrofit to fetch data. I also implemented Firebase Authentication. I created this app from scratch without referring to any resources. It has a simple UI, and I did not follow any specific design pattern here.

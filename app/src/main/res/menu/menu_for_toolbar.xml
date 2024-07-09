@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/about_us"
+        android:icon="@drawable/baout_us_ic"
+        android:title="About Us"
+        app:showAsAction="collapseActionView"
+        />
+    <item android:id="@+id/exit"
+    android:icon="@drawable/baout_us_ic"
+    android:title="Exit"
+    />
+    <item android:id="@+id/share"
+    android:icon="@drawable/baout_us_ic"
+    android:title="share"
+    />
+
+</menu>
